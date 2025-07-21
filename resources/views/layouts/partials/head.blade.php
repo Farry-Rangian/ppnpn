@@ -15,4 +15,8 @@
   <script src="https://unpkg.com/@popperjs/core@2"></script>
   <!-- Main Styling -->
   <link href="{{ asset('assets/css/argon-dashboard-tailwind.css?v=1.0.1') }}" rel="stylesheet" />
+
+  <link rel="stylesheet" href="{{ asset('assets/DataTables/datatables.css') }}" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/buttons/3.2.4/css/buttons.dataTables.css">
 </head>
